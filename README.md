@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <p float="left">
-<img src="https://github-readme-stats.vercel.app/api?username=pretty66&show_icons=true&theme=dark" height="190">
+<img src="https://github-readme-stats.vercel.app/api?username=pretty66&show_icons=true&theme=tokyonight" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pretty66&layout=compact&hide=html&langs_count=10&theme=dark" height="190" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pretty66&layout=compact&hide=html&langs_count=10&theme=dracula" height="170" />
 </p>
