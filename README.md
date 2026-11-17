@@ -1,20 +1,68 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**pretty66/pretty66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm pretty66 👋
 
-Here are some ideas to get you started:
+**Building practical tools for networking and infrastructure.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
+Go · Networking · Open Source
 
+📍 Nanjing, China
 
-<p float="left">
-<img src="https://github-readme-stats.vercel.app/api?username=pretty66&show_icons=true&theme=tokyonight" height="170">
+[Explore my repositories](https://github.com/pretty66?tab=repositories) · [GitHub profile](https://github.com/pretty66)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pretty66&layout=compact&hide=html&langs_count=10&theme=dracula" height="170" />
-</p>
+</div>
+
+---
+
+### About me
+
+I enjoy building tools that make infrastructure simpler to use. My projects explore network management, proxies, and practical solutions in Go.
+
+### Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [iptables-web](https://github.com/pretty66/iptables-web)
+A web interface for managing iptables, built with Go.
+
+`Go` `Networking` `iptables`
+
+</td>
+<td width="50%" valign="top">
+
+#### [websocketproxy](https://github.com/pretty66/websocketproxy)
+A simple WebSocket reverse proxy with support for WS and WSS.
+
+`Go` `WebSocket` `Proxy`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [fastcar](https://github.com/pretty66/fastcar)
+A long-connection proxy for PHP that helps reduce request latency.
+
+`Go` `PHP` `Proxy`
+
+</td>
+<td width="50%" valign="top">
+
+#### More on GitHub
+Explore more experiments, tools, and open-source projects in my repositories.
+
+[View all repositories →](https://github.com/pretty66?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+Thanks for stopping by. Let's build something useful.
+
+</div>
